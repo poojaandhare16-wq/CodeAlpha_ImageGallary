@@ -20,4 +20,5 @@ It allows users to view images, filter by category, and open images in a lightbo
 Open `index.html` in browser.
 
 👩‍💻 Author
+
 Pooja Andhare
