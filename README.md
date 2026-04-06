@@ -14,6 +14,7 @@ It allows users to view images, filter by category, and open images in a lightbo
 * HTML
 * CSS
 * JavaScript
+
  ▶️ How to Run
 
 Open `index.html` in browser.
